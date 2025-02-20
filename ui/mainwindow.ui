@@ -113,6 +113,9 @@
         <property name="toolButtonStyle">
          <enum>Qt::ToolButtonTextUnderIcon</enum>
         </property>
+        <property name="visible">
+          <bool>false</bool>
+        </property>
        </widget>
       </item>
       <item>
@@ -136,6 +139,9 @@
         <property name="toolButtonStyle">
          <enum>Qt::ToolButtonTextUnderIcon</enum>
         </property>
+        <property name="visible">
+          <bool>false</bool>
+        </property>
        </widget>
       </item>
       <item>
@@ -158,6 +164,9 @@
         </property>
         <property name="toolButtonStyle">
          <enum>Qt::ToolButtonTextUnderIcon</enum>
+        </property>
+        <property name="visible">
+          <bool>false</bool>
         </property>
        </widget>
       </item>
